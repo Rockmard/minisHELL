@@ -1,0 +1,5 @@
+separe les env en different arg
+export a="export b="export""
+faire here doc meme si erreur parsing
+echo $"" "$" '$' $a '$a' "$a" $"a" $'a' "'$a'" '"$a"' '"'$a'"' "'"$a"'" '$'a "$"a
+|||||
