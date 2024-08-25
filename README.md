@@ -20,7 +20,7 @@ Ce projet a été réalisé a deux dans le cadre de la formation de l'école 42.
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/yourusername/minishell.git
+    git clone https://github.com/Rockmard/minisHELL.git
     ```
 
 2. Compilez le projet :
