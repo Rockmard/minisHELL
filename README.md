@@ -14,7 +14,7 @@ Bienvenue dans **Minishell** ! Une implémentation minimaliste de shell Linux. C
 
 ## ⚠️ Attention
 
-Ce projet a été réalisé a deux dans le cadre de la formation de l'école 42. Il peut contenir des bugs et des failles de sécurité. Et surtout si vous êtes étudiant de 42, n'oubliez pas que copier n'est pas autorisé, soyez responsable de votre travail. Bonne chance !
+Ce projet a été réalisé a deux dans le cadre de la formation de l'école 42. Il peut contenir des bugs et des failles de sécurité. Et surtout si vous êtes étudiant de 42, n'oubliez pas que copier n'est pas autorisé soyez responsable de votre travail. Bonne chance !
 
 ## 🚀 Installation
 
